@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberPyramid", "NumberPyra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberTable", "NumberTable\NumberTable.csproj", "{7B47B17B-DDFE-4B60-8964-9EC9450F6947}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diamond", "Diamond\Diamond.csproj", "{51426D5F-50AB-45AA-B9BA-7A620DA7D351}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "House", "House\House.csproj", "{0ED69C40-F5CB-4D77-AFE4-BE9A694105B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{7B47B17B-DDFE-4B60-8964-9EC9450F6947}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B47B17B-DDFE-4B60-8964-9EC9450F6947}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B47B17B-DDFE-4B60-8964-9EC9450F6947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51426D5F-50AB-45AA-B9BA-7A620DA7D351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51426D5F-50AB-45AA-B9BA-7A620DA7D351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51426D5F-50AB-45AA-B9BA-7A620DA7D351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51426D5F-50AB-45AA-B9BA-7A620DA7D351}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ED69C40-F5CB-4D77-AFE4-BE9A694105B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ED69C40-F5CB-4D77-AFE4-BE9A694105B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ED69C40-F5CB-4D77-AFE4-BE9A694105B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ED69C40-F5CB-4D77-AFE4-BE9A694105B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
